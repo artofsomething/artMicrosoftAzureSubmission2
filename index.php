@@ -51,7 +51,7 @@
 			<hr>
 			<p><b>Menu : </b></p>
 			<div class="menu">
-				<div class="button_cont" id="btn1"  align="center"><a class="btn red" href="phpQs.php" rel="nofollow noopener">Azure Blob</a></div>
+				<div class="button_cont" id="btn1"  align="center"><a class="btn red" href="phpQS.php" rel="nofollow noopener">Azure Blob</a></div>
 				<div class="button_cont" id="btn2" align="center"><a class="btn blue" href="ComputeVision.html" rel="nofollow noopener">Analyze Image</a></div>
 			</div>
 			<hr>
